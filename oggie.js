@@ -8,3 +8,4 @@ let myObj = {
   me: "spencer",
   age: "20?"
 };
+let arrow = "arrow";
