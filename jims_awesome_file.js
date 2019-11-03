@@ -2,7 +2,7 @@ const today = new Date();
 const currentHour = today.getHours();
 
 const printIt = () => {
-  console.log("Jim's awesome file!");
+  console.log("Something had to change. Change this. Show time.");
 
   if (currentHour < 12) {
     console.log("It's AM!");
