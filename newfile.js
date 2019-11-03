@@ -1,4 +1,7 @@
-function steve() {
-  //TODO: Write more about steve
-  return "steve";
+function steve(hair) {
+  if (hair === "fabulous") {
+    return "Harrington";
+  } else {
+    return "Jobs";
+  }
 }
