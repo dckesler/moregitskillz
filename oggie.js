@@ -4,6 +4,12 @@ let job = elm => {
     : console.log("it something else");
 };
 
+const myArr = [1, 2, 3, 4];
+
+let time = val => {
+  console.log(val);
+};
+
 let myObj = {
   me: "spencer",
   age: "20?"
